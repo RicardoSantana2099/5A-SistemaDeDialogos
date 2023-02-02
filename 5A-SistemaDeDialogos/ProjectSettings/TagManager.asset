@@ -41,6 +41,18 @@ TagManager:
   - 
   - 
   m_SortingLayers:
+  - name: fondo
+    uniqueID: 504510801
+    locked: 0
+  - name: fondo2
+    uniqueID: 1312598251
+    locked: 0
+  - name: fondo3
+    uniqueID: 3420259783
+    locked: 0
   - name: Default
     uniqueID: 0
+    locked: 0
+  - name: jugador
+    uniqueID: 2911975619
     locked: 0

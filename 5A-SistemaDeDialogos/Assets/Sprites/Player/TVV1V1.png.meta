@@ -589,7 +589,6 @@ TextureImporter:
     weights: []
     secondaryTextures: []
     nameFileIdTable:
-      TVV1V1_21: -937147813
       TVV1V1_0: -1743110994
       TVV1V1_8: -1177202443
       TVV1V1_7: 378554112
@@ -607,6 +606,7 @@ TextureImporter:
       TVV1V1_16: 1414618849
       TVV1V1_15: 590844603
       TVV1V1_18: -1445738091
+      TVV1V1_21: -937147813
       TVV1V1_2: 1968278860
       TVV1V1_20: 1057419118
       TVV1V1_4: -256634290
