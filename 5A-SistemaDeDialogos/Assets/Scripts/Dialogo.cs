@@ -6,6 +6,7 @@ using TMPro;
 public class Dialogo : MonoBehaviour
 {
     public GameObject Admiracion; //El signo de admiración para hscer la alerta.
+    public GameObject Mouse; //El mouse que explica como activar.
     private bool isPlayerInRange;//Esta me va a indicar si el jugador esta cerca del rango.
     private bool didDialogueStart;//Nos va a indicar que el dialogo comenzo.
     private int lineIndex;//Este nos va a mostrar que linea de dialogo nos esta mostrando.
@@ -41,6 +42,7 @@ public class Dialogo : MonoBehaviour
         didDialogueStart = true; //Le estamos diciendo que ya comenzo el dialogo.
         PanelDeDialogo.SetActive(true); //Se activa el panel para mostrar el texto.
         Admiracion.SetActive(false);//Se desactiva el signo de admiración cuando esta el dialogo.
+        Mouse.SetActive(false);//Se desactiva el mouse cuando esta el dialogo.
         lineIndex = 0; // Para que siempre que reactivemos el dialogo comience de 0.
         Time.timeScale = 0f; //Todo se detiene completamente mientras esta el dialogo.
 
@@ -58,7 +60,8 @@ public class Dialogo : MonoBehaviour
         {
             didDialogueStart = false;
             PanelDeDialogo.SetActive(false);
-            Admiracion.SetActive(true);
+            Admiracion.SetActive(true);//Se activa el signo de admiración.
+            Mouse.SetActive(true);//Se activa el mouse.
             Time.timeScale = 1f; // Regresa el juego a la normalidad una vez acabado el dialogo.
         }
     }
@@ -79,6 +82,7 @@ public class Dialogo : MonoBehaviour
         {
             isPlayerInRange = true;
             Admiracion.SetActive(true);//Se activa el simbolo de admiración al momento de estar cerca de la misión.
+            Mouse.SetActive(true);//Se activa el mouse al momento de estar cerca de la misión.      
         }
         
     }
@@ -89,6 +93,7 @@ public class Dialogo : MonoBehaviour
         {
             isPlayerInRange = false;
             Admiracion.SetActive(false);//Se desactiva el simbolo de admiración al momento de alejarse de la misión.
+            Mouse.SetActive(false);//Se desactiva el mouse.
         }
     }
 }
