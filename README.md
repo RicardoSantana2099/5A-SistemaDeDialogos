@@ -3,6 +3,8 @@ Este repositorio esta encargado de almacenar la practica de sistema de diálogos
 
 
 Guía
+
+
 Índice:
 Este juego tiene como objetivo mostrar el sistema de diálogos sencillo y pueda
 interactuar con distintos personajes dentro del juego.
