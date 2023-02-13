@@ -1,7 +1,7 @@
 # 5A-SistemaDeDialogos
 Este repositorio esta encargado de almacenar la practica de sistema de diálogos para la clase de programación del grupo 5-A.
 
-# Índice:
+
 Este juego tiene como objetivo mostrar el sistema de diálogos sencillo y pueda
 interactuar con distintos personajes dentro del juego.
 Contiene 6 scripts:
