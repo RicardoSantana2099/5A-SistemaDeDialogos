@@ -31,16 +31,27 @@ objetivo.
 
 
 Acerca del Juego
+
 Tvv1 es un robot muy curioso que esta explorando el mundo para
 conocer más de su alrededor.
+
 El juego esta creado en un bosque donde hay una pantalla que esta buscando amigos
 para que prueben su nuevo juego.
+
 Este juego incluye:
+
 2 Tipos de rocas.
+
 3 robots.
+
 4 Fondos.
+
 17 Tipos de tierra para decorar el mapa.
+
 2 Carteles.
+
 1 Jugador.
+
 2 Mouse.
+
 2 Signos de admiración.
