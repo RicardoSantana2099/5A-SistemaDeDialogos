@@ -1,11 +1,6 @@
 # 5A-SistemaDeDialogos
 Este repositorio esta encargado de almacenar la practica de sistema de diálogos para la clase de programación del grupo 5-A.
 
-
-# Como sirve el codigo? Encuentra mayor explicación en la carpeta documentación que se encuentra en: 
-
-5A-SistemaDeDialogos/Assets/SistemaDeDialogo/Documentación
-
 # Índice:
 Este juego tiene como objetivo mostrar el sistema de diálogos sencillo y pueda
 interactuar con distintos personajes dentro del juego.
@@ -61,4 +56,7 @@ para que prueben su nuevo juego.
 2 Signos de admiración.
 
 
+# Como sirve el codigo? Encuentra mayor explicación en la carpeta documentación que se encuentra en: 
+
+5A-SistemaDeDialogos/Assets/SistemaDeDialogo/Documentación
 
