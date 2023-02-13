@@ -55,3 +55,6 @@ Este juego incluye:
 2 Mouse.
 
 2 Signos de admiración.
+
+
+El resto de la documentación se encuentra en la carpeta: 5A-SistemaDeDialogos/Assets/SistemaDeDialogo/Documentación
