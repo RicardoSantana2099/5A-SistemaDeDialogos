@@ -2,11 +2,11 @@
 Este repositorio esta encargado de almacenar la practica de sistema de diálogos para la clase de programación del grupo 5-A.
 
 
-El resto de la documentación se encuentra en la carpeta:   
+# El resto de la documentación se encuentra en la carpeta:   
 
-5A-SistemaDeDialogos/Assets/SistemaDeDialogo/Documentación
+# 5A-SistemaDeDialogos/Assets/SistemaDeDialogo/Documentación
 
-Índice:
+# Índice:
 Este juego tiene como objetivo mostrar el sistema de diálogos sencillo y pueda
 interactuar con distintos personajes dentro del juego.
 Contiene 6 scripts:
@@ -19,14 +19,14 @@ script, lo cual va a activa el dialogo)
 6. Menú inicial (como funciona el menú principal)
 
 
-Instalación:
+# Instalación:
 1. Ingrese al link https://github.com/RicardoSantana2099/5A-SistemaDeDialogos
 2. Da click en el botón verde con el titulo “Code” y descárgalo en “Donlwoad Zip”
 3. Una vez descargado el documento lo vas a extraer en tu pc.
 4. Importa el paquete a tu proyecto.
 
 
-Como Jugar
+# Como Jugar
 1. Con las letras A y D se mueve para la izquierda y la derecha.
 2. Con la tecla espacio salta.
 3. Presionando doble vez espacio salta dos veces.
@@ -34,7 +34,7 @@ Como Jugar
 objetivo.
 
 
-Acerca del Juego
+# Acerca del Juego
 
 Tvv1 es un robot muy curioso que esta explorando el mundo para
 conocer más de su alrededor.
@@ -42,7 +42,7 @@ conocer más de su alrededor.
 El juego esta creado en un bosque donde hay una pantalla que esta buscando amigos
 para que prueben su nuevo juego.
 
-Este juego incluye:
+# Este juego incluye:
 
 2 Tipos de rocas.
 
