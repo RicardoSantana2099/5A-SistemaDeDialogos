@@ -2,7 +2,7 @@
 Este repositorio esta encargado de almacenar la practica de sistema de diálogos para la clase de programación del grupo 5-A.
 
 
-# El resto de la documentación se encuentra en la carpeta:   
+# Como sirve el codigo? Encuentra mayor explicación en la carpeta documentación que se encuentra en: 
 
 5A-SistemaDeDialogos/Assets/SistemaDeDialogo/Documentación
 
