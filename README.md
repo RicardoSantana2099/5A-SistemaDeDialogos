@@ -55,6 +55,10 @@ para que prueben su nuevo juego.
 
 2 Signos de admiración.
 
+# Lo quieres jugar y ver que se puede hacer? Entra a esta carpeta
+
+5A-SistemaDeDialogos/Juego/5A-SistemaDeDialogos
+
 
 # Como sirve el codigo? Encuentra mayor explicación en la carpeta documentación que se encuentra en: 
 
