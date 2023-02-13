@@ -2,7 +2,9 @@
 Este repositorio esta encargado de almacenar la practica de sistema de diálogos para la clase de programación del grupo 5-A.
 
 
-El resto de la documentación se encuentra en la carpeta:   5A-SistemaDeDialogos/Assets/SistemaDeDialogo/Documentación
+El resto de la documentación se encuentra en la carpeta:   
+
+5A-SistemaDeDialogos/Assets/SistemaDeDialogo/Documentación
 
 Índice:
 Este juego tiene como objetivo mostrar el sistema de diálogos sencillo y pueda
