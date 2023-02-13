@@ -4,7 +4,7 @@ Este repositorio esta encargado de almacenar la practica de sistema de diálogos
 
 # El resto de la documentación se encuentra en la carpeta:   
 
-# 5A-SistemaDeDialogos/Assets/SistemaDeDialogo/Documentación
+5A-SistemaDeDialogos/Assets/SistemaDeDialogo/Documentación
 
 # Índice:
 Este juego tiene como objetivo mostrar el sistema de diálogos sencillo y pueda
