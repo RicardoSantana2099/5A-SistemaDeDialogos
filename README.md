@@ -2,9 +2,6 @@
 Este repositorio esta encargado de almacenar la practica de sistema de diálogos para la clase de programación del grupo 5-A.
 
 
-Guía
-
-
 Índice:
 Este juego tiene como objetivo mostrar el sistema de diálogos sencillo y pueda
 interactuar con distintos personajes dentro del juego.
@@ -16,20 +13,25 @@ script, lo cual va a activa el dialogo)
 4. Rocas (Que pasa si una roca toca al jugador)
 5. Fondo (el fondo se va a mover con el jugador)
 6. Menú inicial (como funciona el menú principal)
+
+
 Instalación:
 1. Ingrese al link https://github.com/RicardoSantana2099/5A-SistemaDeDialogos
 2. Da click en el botón verde con el titulo “Code” y descárgalo en “Donlwoad Zip”
 3. Una vez descargado el documento lo vas a extraer en tu pc.
 4. Importa el paquete a tu proyecto.
+
+
 Como Jugar
 1. Con las letras A y D se mueve para la izquierda y la derecha.
 2. Con la tecla espacio salta.
 3. Presionando doble vez espacio salta dos veces.
 4. Al estar cerca de un robot con darle click se activa un dialogo que te explica algún
 objetivo.
-Guía 2
+
+
 Acerca del Juego
-Acerca del juego:Tvv1 es un robot muy curioso que esta explorando el mundo para
+Tvv1 es un robot muy curioso que esta explorando el mundo para
 conocer más de su alrededor.
 El juego esta creado en un bosque donde hay una pantalla que esta buscando amigos
 para que prueben su nuevo juego.
